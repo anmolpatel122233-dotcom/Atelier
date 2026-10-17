@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Warm Japandi Spatial Commerce & AR Planner",
+  "description": "High-end interior curation, spatial AR visualizer, and architectural 2D/3D room planner with Japandi aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
